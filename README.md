@@ -40,6 +40,7 @@ This dataset contains 2239 images of malignant diseases which were constructed f
 
 8.	Model Evaluation
    
+![image](https://github.com/parthajitB/Melanoma-Detection/assets/137589244/1e03cede-36f0-4576-a2f1-f06c3b653682)
 
 
 

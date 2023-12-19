@@ -18,7 +18,7 @@
 	The primary benefits that drives the project is to use the advanced image classification technology for the well-being of the people. Computer vision has made good progress in 	machine learning and deep learning that are scalable across domains.
 
 6.	Dataset
-	This dataset contains 2239 images of malignant diseases which were constructed from ISIC (International Skin Imaging Collaboration)
+	This dataset contains 2239 images of malignant diseases which were constructed from ISIC (International Skin ImagingCollaboration)
        		 ![image](https://github.com/parthajitB/Melanoma-Detection/assets/137589244/49f7f3a2-2e53-48ca-917d-35bc86f5a9c9)
   		![image](https://github.com/parthajitB/Melanoma-Detection/assets/137589244/4afd16a6-f788-42f3-a20d-e4fbdfac5bc0)
 		 

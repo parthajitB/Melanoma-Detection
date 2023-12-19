@@ -19,10 +19,11 @@
 
 6.	Dataset
 	This dataset contains 2239 images of malignant diseases which were constructed from ISIC (International Skin ImagingCollaboration)
-       		 ![image](https://github.com/parthajitB/Melanoma-Detection/assets/137589244/49f7f3a2-2e53-48ca-917d-35bc86f5a9c9)
+
+  		 ![image](https://github.com/parthajitB/Melanoma-Detection/assets/137589244/49f7f3a2-2e53-48ca-917d-35bc86f5a9c9)
   		![image](https://github.com/parthajitB/Melanoma-Detection/assets/137589244/4afd16a6-f788-42f3-a20d-e4fbdfac5bc0)
 		 
-7.	CNN Architecture
+8.	CNN Architecture
 
 	•	Rescaling Layer - To rescale an input in the [0, 255] range to be in the [0, 1] range.
 	•	Convolutional Layer - Convolutional layers apply a convolution operation to the input, passing the result to the next layer. A convolution converts all the pixels in its receptive field into a single value
